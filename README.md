@@ -1,5 +1,5 @@
 # Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/@erdieser)
+## [Watch it on youtube](https://youtube.com/@erdieser)
 ### Portfolio Responsive Complete
 
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
@@ -10,5 +10,5 @@
 
 💙 Join the channel to see more videos like this. [ErdiEser](https://www.youtube.com/@erdieser)
 
-![preview img](/preview.png)
+
 
